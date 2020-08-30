@@ -1,0 +1,31 @@
+_repo: Peter-Parley-s-Wonders-of-the-Earth-Sea-and-Sky_62982
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goodrich, Samuel G. (Samuel Griswold)
+    aliases:
+    - Goodrich, S. G. (Samuel Griswold)
+    - Parley, Peter
+    - Goodrich, Samuel Griswold
+    birthdate: 1793
+    deathdate: 1860
+    gutenberg_agent_id: '4027'
+    url: http://www.gutenberg.org/2009/agents/4027
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Griswold_Goodrich
+description: ''
+gutenberg_issued: '2020-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy -- Juvenile literature'
+- !lcc 'GB'
+- !lcsh 'Ocean -- Juvenile literature'
+- !lcsh 'Geology -- Juvenile literature'
+- GITenberg
+title: Peter Parley's Wonders of the Earth, Sea, and Sky
+url: http://www.gutenberg.org/ebooks/62982
